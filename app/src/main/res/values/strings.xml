@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P22.Rivera</string>
+
+    <string name="but_continuar_str">Button</string>
+    <string name="but_compartir_str">Button</string>
+
+    <string name="emptyText">EditText</string>
+    <string name="text_view" />
+</resources>
