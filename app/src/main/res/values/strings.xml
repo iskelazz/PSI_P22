@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">P22.Rivera</string>
 
-    <string name="but_continuar_str">Button</string>
-    <string name="but_compartir_str">Button</string>
+    <string name="but_continuar_str">Continuar</string>
+    <string name="but_compartir_str">Compartir</string>
 
-    <string name="emptyText">EditText</string>
+    <string name="emptyText">No hay texto</string>
     <string name="text_view" />
+
+    <string name="button1">Botón1</string>
+    <string name="button2">Botón2</string>
+    <string name="button3">Botón3</string>
 </resources>
